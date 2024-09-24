@@ -1,0 +1,88 @@
+Terms and Conditions for UpMemo
+
+Effective Date: 24 Sep. 2024
+
+Welcome to UpMemo (the "App"). By downloading, installing, and using the App, you ("User," "you," or "your") agree to be bound by these Terms and Conditions ("Terms"). Please read them carefully. If you do not agree with these Terms, you may not use the App.
+1. Acceptance of Terms
+
+By accessing and using the App, you acknowledge that you have read, understood, and agree to comply with these Terms. These Terms constitute a legal agreement between you and UpMemo. We reserve the right to modify these Terms at any time. We will notify you of significant changes, and your continued use of the App after the modification means you accept the new Terms.
+2. Use of the App
+a. Eligibility
+
+You must be at least 13 years of age or older to use the App. By using the App, you represent that you meet this age requirement.
+b. License to Use
+
+We grant you a limited, non-exclusive, non-transferable, and revocable license to use the App for personal, non-commercial purposes, subject to your compliance with these Terms.
+c. Restrictions
+
+You agree not to:
+
+    Copy, modify, distribute, sell, or lease any part of the App.
+    Reverse-engineer or attempt to extract the source code of the App.
+    Use the App for any unlawful or harmful purposes.
+    Interfere with or disrupt the App or its servers.
+
+3. User Account
+
+To access certain features of the App, you may need to create an account. You are responsible for:
+
+    Providing accurate and up-to-date information during registration.
+    Maintaining the confidentiality of your account credentials.
+    All activities that occur under your account.
+
+If you believe your account has been compromised, you must notify us immediately at [Insert Contact Email].
+4. User-Generated Content
+
+UpMemo may allow you to create, upload, and store content such as notes, reminders, or other materials ("User Content"). By submitting User Content, you agree to the following:
+
+    You retain ownership of your User Content.
+    You grant us a worldwide, royalty-free, non-exclusive license to use, distribute, and display your User Content solely for the operation and functionality of the App.
+    You are solely responsible for your User Content, ensuring it does not violate any applicable laws, third-party rights, or these Terms.
+
+We reserve the right to remove or disable any User Content that violates these Terms.
+5. Privacy
+
+Your use of the App is also governed by our Privacy Policy, which outlines how we collect, use, and protect your personal information. By using the App, you consent to the practices described in the Privacy Policy.
+6. Intellectual Property Rights
+
+All content, features, and functionality of the App (including but not limited to text, graphics, logos, and software) are the exclusive property of UpMemo and are protected by intellectual property laws. You agree not to reproduce, distribute, or create derivative works from any of the App's content without prior written permission from us.
+7. Third-Party Services and Links
+
+The App may contain links to third-party websites, services, or resources that are not owned or controlled by UpMemo. We are not responsible for the content, privacy policies, or practices of third-party services. Your use of third-party services is at your own risk, and you should read their terms and policies before engaging with them.
+8. Termination
+
+We reserve the right to terminate or suspend your access to the App at any time and for any reason, without notice or liability. Reasons for termination may include:
+
+    Breaching these Terms.
+    Engaging in fraudulent, abusive, or illegal activities.
+
+Upon termination, your right to use the App will cease immediately. You may also delete the App from your device at any time if you choose to stop using it.
+9. Disclaimers
+
+The App is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties, whether express or implied, regarding the App, including but not limited to:
+
+    The App will be error-free or uninterrupted.
+    The App will meet your specific requirements or expectations.
+    The accuracy, reliability, or completeness of any content or information provided through the App.
+
+We disclaim all liability for any damages arising from your use of the App, including but not limited to data loss, system failures, or unauthorized access to your account.
+10. Limitation of Liability
+
+To the fullest extent permitted by law, UpMemo and its affiliates shall not be liable for any indirect, incidental, special, or consequential damages, including but not limited to:
+
+    Loss of profits.
+    Loss of data.
+    Damages resulting from your inability to use the App.
+
+Our total liability for any claims related to the App shall not exceed the amount you paid (if any) for accessing or using the App.
+11. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of [Your Country or State], without regard to its conflict of law principles. Any legal disputes arising from or related to these Terms shall be subject to the exclusive jurisdiction of the courts located in [Your Jurisdiction].
+12. Changes to Terms
+
+We may modify these Terms at any time by posting the updated Terms within the App or through other communication channels. If we make material changes, we will notify you prior to the changes taking effect. Your continued use of the App after such changes signifies your acceptance of the revised Terms.
+13. Contact Information
+
+If you have any questions or concerns about these Terms, please contact us at:
+
+Email: up.your.memory@gmail.com
