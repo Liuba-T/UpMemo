@@ -1,0 +1,82 @@
+Effective Date: 24 Sep 2024
+
+
+UpMemo ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application UpMemo (the "App"). Please read this policy carefully to understand our practices regarding your information.
+
+By downloading, installing, or using the App, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with the terms of this policy, please do not use the App.
+1. Information We Collect
+
+We may collect different types of information depending on your use of the App. These include:
+a. Personal Information
+
+We may collect the following personal information when you use the App:
+
+    Email address (if provided during sign-up or feedback submission).
+    Contact information (if provided for customer support).
+
+b. Usage Data
+
+When you access or use the App, we may automatically collect information about your device, such as:
+
+    Device type and model.
+    IP address.
+    Operating system version.
+    Usage details (e.g., interactions with the App, features used, etc.).
+
+c. Log Information
+
+We collect log information automatically through cookies or similar tracking technologies. This may include:
+
+    Crash reports.
+    App performance data.
+
+2. How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+    To provide and maintain the App.
+    To improve and personalize your experience with the App.
+    To analyze usage trends and app performance.
+    To communicate with you regarding updates, support, and relevant information.
+    To address issues or complaints.
+
+3. Data Sharing and Disclosure
+
+We do not sell or share your personal information with third parties for marketing purposes. However, we may share your information in the following scenarios:
+
+    With Service Providers: We may share data with third-party service providers who assist in operating and maintaining the App (e.g., analytics services).
+    Legal Requirements: If required by law or to respond to a legal process, we may disclose your information.
+    Business Transfers: In the event of a merger, acquisition, or asset sale, your information may be transferred as part of the transaction.
+
+4. Data Security
+
+We use reasonable technical and organizational measures to protect your information. However, no method of data transmission or storage is completely secure. We strive to protect your personal information but cannot guarantee its absolute security.
+5. Data Retention
+
+We will retain your personal information only for as long as necessary for the purposes set out in this Privacy Policy. After that, we will securely delete or anonymize your information.
+6. Your Privacy Rights
+
+Depending on your jurisdiction, you may have the following rights regarding your personal data:
+
+    Access to your personal information.
+    Rectification or updating of incorrect or incomplete data.
+    Erasure or deletion of your personal information.
+    Restriction on the processing of your information.
+    Objection to the processing of your information.
+    Data portability.
+
+To exercise any of these rights, please contact us at [Insert Contact Email].
+7. Third-Party Links and Services
+
+The App may contain links to third-party websites or services. We are not responsible for the privacy practices of these external services, and we encourage you to read their privacy policies before using them.
+8. Children's Privacy
+
+Our App is not directed to children under the age of 13, and we do not knowingly collect personal information from children. If we become aware that we have collected personal data from a child, we will take steps to delete such information.
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Effective Date" at the top of the policy. Your continued use of the App after such changes constitutes your acceptance of the new Privacy Policy.
+10. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+Email: up.your.memory@gmail.com
